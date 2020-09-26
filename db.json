@@ -12,6 +12,6 @@
     "name": "typicode"
   },
   "list": [
-    { "id": 1601114445514, "title": "todo 01", "status": "todo" }
+    { "id": "1601114445514", "title": "todo 01", "status": "todo" }
   ]
 }
